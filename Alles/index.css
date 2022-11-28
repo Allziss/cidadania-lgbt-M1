@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    margin:0px;
+    font-family:"Roboto",sans-serif;
+    border:0ch;
+}
+
+h1{
+    color:coral;
+    text-align:center;
+    padding:20px;
+    font-weight:1000;
+}
+    
+.Principal{
+    background-color:black;
+    height:100vh;
+    margin:0px;
+    bottom:0%;
+}
+
+h2{
+    color:darkred;
+    text-align:end;
+    padding:30px;
+
+}
+
+.sub-principal{
+
+    top:0%;
+    background-color: indigo;
+    height:100vh;
+    margin:0px;
+}
